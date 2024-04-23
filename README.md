@@ -1,2 +1,2 @@
 # Rastreio
-Rastreio de CEP
+Site para rastreio de CEP.
