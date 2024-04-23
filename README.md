@@ -1,2 +1,2 @@
 # Rastreio
-Site para rastreio de CEP.
+Site desenvolvido utilizando HTML, CSS e Javascript para rastreio de CEP.
