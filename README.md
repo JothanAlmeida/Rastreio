@@ -1,2 +1,4 @@
 # Rastreio
-Site desenvolvido utilizando HTML, CSS e Javascript para rastreio de CEP.
+Repositório para o projeto de rastreio de CEP.
+
+💻 Site desenvolvido utilizando HTML, CSS e Javascript
